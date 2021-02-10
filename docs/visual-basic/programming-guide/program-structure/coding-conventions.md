@@ -134,7 +134,7 @@ Microsoft は、ここで示すガイドラインに従ってサンプルおよ�
   
 ### <a name="use-the-isnot-keyword"></a>IsNot キーワードの使用  
 
- `IsNot` の代わりに `Not...Is Nothing` キーワードを使用します。  
+ `Not...Is Nothing` の代わりに `IsNot` キーワードを使用します。  
   
 ### <a name="new-keyword"></a>New キーワード  
   
@@ -152,7 +152,7 @@ Microsoft は、ここで示すガイドラインに従ってサンプルおよ�
   
 ### <a name="event-handling"></a>イベント処理  
   
-- `Handles` ではなく `AddHandler` を使用します。  
+- `AddHandler` ではなく `Handles` を使用します。  
   
      [!code-vb[VbVbalrGuidelines#24](~/samples/snippets/visualbasic/VS_Snippets_VBCSharp/VbVbalrGuidelines/VB/Class1.vb#24)]  
   
